@@ -1,0 +1,1 @@
+Ahora parece que si. Esto es un fichero de ejemplo para comprobar si se realiza correctamente el conteo de letras de un texto cualquiera con el programa del curso Python for Everybody.
